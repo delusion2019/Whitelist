@@ -196,3 +196,11 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
+watson.telemetry.microsoft.com
+v10.events.data.microsoft.com
+analytics.twitter.com
+stream.twitter.com
+platform.twitter.com
+api.twitter.com
+syndication.twitter.com
+
