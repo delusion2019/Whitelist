@@ -7,6 +7,7 @@ win10.ipv6.microsoft.com
 google.dns
 data.mistat.xiaomi.com
 xbox.ipv6.microsoft.com
+browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
 msftncsi.com
 watson.telemetry.microsoft.com
