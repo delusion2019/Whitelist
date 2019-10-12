@@ -1,0 +1,20 @@
+
+#WhiteList for diversion
+# This is a DNS blocklist for the PiHole (https://pi-hole.net/) to block unnecessary connections to Xiaomi on the Internet.
+# Please help to collect domains!
+settings-win.data.microsoft.com
+win10.ipv6.microsoft.com
+google.dns
+data.mistat.xiaomi.com
+xbox.ipv6.microsoft.com
+mobile.pipe.aria.microsoft.com
+msftncsi.com
+watson.telemetry.microsoft.com
+v10.events.data.microsoft.com
+incoming.telemetry.mozilla.org
+time.orange.net.il
+analytics.twitter.com
+stream.twitter.com
+platform.twitter.com
+api.twitter.com
+syndication.twitter.com
