@@ -6,6 +6,7 @@ settings-win.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 watson.telemetry.microsoft.com
 v10.events.data.microsoft.com
+incoming.telemetry.mozilla.org
 analytics.twitter.com
 stream.twitter.com
 platform.twitter.com
