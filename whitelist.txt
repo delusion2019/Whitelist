@@ -3,6 +3,7 @@
 # This is a DNS blocklist for the PiHole (https://pi-hole.net/) to block unnecessary connections to Xiaomi on the Internet.
 # Please help to collect domains!
 settings-win.data.microsoft.com
+mobile.pipe.aria.microsoft.com
 watson.telemetry.microsoft.com
 v10.events.data.microsoft.com
 analytics.twitter.com
