@@ -3,10 +3,16 @@
 # This is a DNS blocklist for the PiHole (https://pi-hole.net/) to block unnecessary connections to Xiaomi on the Internet.
 # Please help to collect domains!
 settings-win.data.microsoft.com
+win10.ipv6.microsoft.com
+google.dns
+data.mistat.xiaomi.com
+xbox.ipv6.microsoft.com
 mobile.pipe.aria.microsoft.com
+msftncsi.com
 watson.telemetry.microsoft.com
 v10.events.data.microsoft.com
 incoming.telemetry.mozilla.org
+time.orange.net.il
 analytics.twitter.com
 stream.twitter.com
 platform.twitter.com
@@ -114,7 +120,7 @@ meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
 microsoftonline.com
-msftncsi.com
+
 my.plexapp.com
 nexusrules.officeapps.live.com
 npr-news.streaming.adswizz.com
@@ -189,7 +195,7 @@ video-stats.l.google.com
 videos.vidible.tv
 widget-cdn.rpxnow.com
 wikipedia.org
-win10.ipv6.microsoft.com
+
 wordpress.com
 wp.com
 ws.audioscrobbler.com
@@ -198,7 +204,7 @@ www.googleapis.com
 www.msftncsi.com
 www.no-ip.com
 www.youtube-nocookie.com
-xbox.ipv6.microsoft.com
+
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
