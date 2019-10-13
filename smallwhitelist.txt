@@ -5,7 +5,7 @@
 settings-win.data.microsoft.com
 win10.ipv6.microsoft.com
 cloudflare-dns.com
-google.dns
+dns.google
 data.mistat.xiaomi.com
 xbox.ipv6.microsoft.com
 browser.pipe.aria.microsoft.com
