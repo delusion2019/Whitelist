@@ -2,6 +2,13 @@
 #WhiteList for diversion
 # This is a DNS blocklist for the PiHole (https://pi-hole.net/) to block unnecessary connections to Xiaomi on the Internet.
 # Please help to collect domains!
+netflix.com
+nflxext.com
+nflximg.net
+nflximg.com
+nflxsearch.net
+nflxso.net
+nflxvideo.net
 settings-win.data.microsoft.com
 win10.ipv6.microsoft.com
 google.dns
