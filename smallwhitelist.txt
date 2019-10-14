@@ -20,3 +20,10 @@ stream.twitter.com
 platform.twitter.com
 api.twitter.com
 syndication.twitter.com
+netflix.com
+nflxext.com
+nflximg.net
+nflximg.com
+nflxsearch.net
+nflxso.net
+nflxvideo.net
