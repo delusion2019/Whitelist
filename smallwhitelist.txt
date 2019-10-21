@@ -4,9 +4,9 @@
 # Please help to collect domains!
 settings-win.data.microsoft.com
 win10.ipv6.microsoft.com
+dnsovertls3.sinodun.com
 cloudflare-dns.com
 dns.google
-dnsovertls3.sinodun.com
 data.mistat.xiaomi.com
 xbox.ipv6.microsoft.com
 browser.pipe.aria.microsoft.com
