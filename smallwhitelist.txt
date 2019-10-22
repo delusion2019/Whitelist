@@ -4,6 +4,9 @@
 # Please help to collect domains!
 settings-win.data.microsoft.com
 win10.ipv6.microsoft.com
+dot2.dnswarden.com
+dot1.dnswarden.com
+dns.neutopia.org
 dnsovertls3.sinodun.com
 cloudflare-dns.com
 dns.google
