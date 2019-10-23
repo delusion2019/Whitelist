@@ -1,0 +1,16 @@
+192.168.1.2 mozilla.cloudflare-dns.com # Block DoH
+192.168.1.2 dns.google # Block DoH
+192.168.1.2 cloudflare-dns.com # Block DoH
+192.168.1.2 dns9.quad9.net # Block DoH
+192.168.1.2 dns10.quad9.net # Block DoH
+192.168.1.2 doh.cleanbrowsing.org # Block DoH
+192.168.1.2 dns.dnsoverhttps.net # Block DoH
+192.168.1.2 doh.crypto.sx # Block DoH
+192.168.1.2 doh.powerdns.org # Block DoH
+192.168.1.2 doh-jp.blahdns.com # Block DoH
+192.168.1.2 dns.dns-over-https.com # Block DoH
+192.168.1.2 doh.securedns.eu # Block DoH
+192.168.1.2 dns.rubyfish.cn # Block DoH
+192.168.1.2 doh.dnswarden.com # Block DoH
+192.168.1.2 doh.captnemo.in # Block DoH
+192.168.1.2 doh.tiar.app # Block DoH
