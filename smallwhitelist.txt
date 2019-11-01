@@ -14,7 +14,8 @@ settings-win.data.microsoft.com
 #dnsovertls3.sinodun.com
 #cloudflare-dns.com
 #dns.google
-#data.mistat.xiaomi.com
+data.mistat.xiaomi.com
+xiaomi.com
 #xbox.ipv6.microsoft.com
 #browser.pipe.aria.microsoft.com
 #mobile.pipe.aria.microsoft.com
