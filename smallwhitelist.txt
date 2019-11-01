@@ -3,6 +3,8 @@
 # This is a DNS blocklist for the PiHole (https://pi-hole.net/) to block unnecessary connections to Xiaomi on the Internet.
 # Please help to collect domains!
 timeserver.iix.net.il
+forum.xda-developers.com
+xda-developers.com
 pool.ntp.org
 snu.lge.com
 su.lge.com
