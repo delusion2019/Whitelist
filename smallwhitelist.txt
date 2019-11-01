@@ -2,23 +2,27 @@
 #WhiteList for diversion
 # This is a DNS blocklist for the PiHole (https://pi-hole.net/) to block unnecessary connections to Xiaomi on the Internet.
 # Please help to collect domains!
+timeserver.iix.net.il
+pool.ntp.org
+snu.lge.com
+su.lge.com
 settings-win.data.microsoft.com
-win10.ipv6.microsoft.com
-dot2.dnswarden.com
-dot1.dnswarden.com
-dns.neutopia.org
-dnsovertls3.sinodun.com
-cloudflare-dns.com
-dns.google
-data.mistat.xiaomi.com
-xbox.ipv6.microsoft.com
-browser.pipe.aria.microsoft.com
-mobile.pipe.aria.microsoft.com
+#win10.ipv6.microsoft.com
+#dot2.dnswarden.com
+#dot1.dnswarden.com
+#dns.neutopia.org
+#dnsovertls3.sinodun.com
+#cloudflare-dns.com
+#dns.google
+#data.mistat.xiaomi.com
+#xbox.ipv6.microsoft.com
+#browser.pipe.aria.microsoft.com
+#mobile.pipe.aria.microsoft.com
 msftncsi.com
-watson.telemetry.microsoft.com
+#watson.telemetry.microsoft.com
 v10.events.data.microsoft.com
-incoming.telemetry.mozilla.org
-time.orange.net.il
+#incoming.telemetry.mozilla.org
+#time.orange.net.il
 analytics.twitter.com
 stream.twitter.com
 platform.twitter.com
@@ -31,4 +35,4 @@ nflximg.com
 nflxsearch.net
 nflxso.net
 nflxvideo.net
-www.dailymotion.com
+#www.dailymotion.com
