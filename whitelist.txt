@@ -1,18 +1,6 @@
-# Whitelist
-#WhiteList for diversion
-# This is a DNS blocklist for the PiHole (https://pi-hole.net/) to block unnecessary connections to Xiaomi on the Internet.
-# Please help to collect domains!
-netflix.com
-nflxext.com
-nflximg.net
-nflximg.com
-nflxsearch.net
-nflxso.net
-nflxvideo.net
 settings-win.data.microsoft.com
 win10.ipv6.microsoft.com
 google.dns
-data.mistat.xiaomi.com
 xbox.ipv6.microsoft.com
 mobile.pipe.aria.microsoft.com
 msftncsi.com
@@ -202,7 +190,6 @@ video-stats.l.google.com
 videos.vidible.tv
 widget-cdn.rpxnow.com
 wikipedia.org
-win10.ipv6.microsoft.com
 wordpress.com
 wp.com
 ws.audioscrobbler.com
@@ -211,7 +198,6 @@ www.googleapis.com
 www.msftncsi.com
 www.no-ip.com
 www.youtube-nocookie.com
-xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
