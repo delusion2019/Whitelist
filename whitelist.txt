@@ -1,4 +1,6 @@
 settings-win.data.microsoft.com
+asus.com
+www.asus.com
 win10.ipv6.microsoft.com
 google.dns
 xbox.ipv6.microsoft.com
