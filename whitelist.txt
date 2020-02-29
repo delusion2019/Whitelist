@@ -207,3 +207,4 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
+https://13news.co.il/
