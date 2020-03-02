@@ -1,4 +1,6 @@
 settings-win.data.microsoft.com
+13news.co.il
+www.13news.co.il
 asus.com
 www.asus.com
 win10.ipv6.microsoft.com
