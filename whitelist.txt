@@ -1,4 +1,5 @@
 settings-win.data.microsoft.com
+il.pool.ntp.org
 13news.co.il
 www.13news.co.il
 asus.com
