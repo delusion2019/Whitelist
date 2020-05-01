@@ -7,6 +7,7 @@ asus.com
 www.dailymotion.com
 dailymotion.com
 pool.ntp.org
+il.pool.ntp.org
 snu.lge.com
 su.lge.com
 settings-win.data.microsoft.com
@@ -21,7 +22,7 @@ ipv6.msftncsi.com
 #dns.neutopia.org
 #dnsovertls3.sinodun.com
 cloudflare-dns.com
-dns.google
+#dns.google
 s3.amazonaws.com
 #data.mistat.xiaomi.com
 #xiaomi.com
@@ -36,7 +37,6 @@ v20.vortex-win.data.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 wdcpalt.microsoft.com
 wdcp.microsoft.com
-
 c.s-microsoft.com
 watson.telemetry.microsoft.com
 v10.events.data.microsoft.com
@@ -54,4 +54,4 @@ nflximg.com
 nflxsearch.net
 nflxso.net
 nflxvideo.net
-#www.dailymotion.com
+
